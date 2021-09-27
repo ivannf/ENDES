@@ -1,9 +1,9 @@
 # ENDES
 
-##Descripción
+## Descripción
 El programa "Hola mundo" simplemente muestra "Hola mundo" por pantalla. Es muy sencillo y suele ser el programa que realiza alguien que quiere aprender un nuevo lenguaje de programación.
 
-##Compilación y ejecución del programa
+## Compilación y ejecución del programa
 
 Para **compilar** el programa teclea lo siguiente (es necesario tener el *JDK*):
 
